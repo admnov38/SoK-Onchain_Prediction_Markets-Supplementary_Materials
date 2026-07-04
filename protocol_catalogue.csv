@@ -1,0 +1,77 @@
+Name,D1_MarketMechanism,D2_OracleType,D3_OutcomeStructure,D4_MarketCreation,D5_BlockchainPlatform,D6_GovernanceModel,D7_CollateralModel,Status,InTable4,ReasonIfOmitted
+Polymarket,CLOB,Optimistic,Bin/Cat,Curated,Polygon,Operator,Stablecoin,Active,Yes,
+Kalshi,CLOB,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,Yes,
+Augur v2,Order Book,Schelling,Bin/Cat/Scl,Open,Ethereum L1,DAO,Multi-asset,Dormant,Yes,
+Gnosis/Omen,FPMM,Bond-escl.,Bin/Cat/Scl,Open,Gnosis Ch.,DAO,Multi-asset,Dormant,Yes,
+Azuro,vAMM,Centralized,Bin/Cat,Curated,Multi-chain,DAO,Stablecoin,Active,Yes,
+Zeitgeist,Rikiddo,Schelling,Bin/Cat/Scl,Open,Polkadot,DAO,Native,Active,Yes,
+Overtime,BS-AMM,Chainlink,Bin/Cat,Curated,OP / Arb,DAO,Stablecoin,Active,Yes,
+MetaDAO,CLOB,TWAP,Binary,Open,Solana,Futarchy,Multi-asset,Active,Yes,
+Drift BET,CLOB,Centralized,Binary,Curated,Solana,DAO,Multi-asset,Active,Yes,
+Seer,CPMM,Bond-escl.,Bin/Cat/Scl,Open,Gnosis Ch.,DAO,Stablecoin,Active,Yes,
+XO Market,LS-LMSR,AI-hybrid,Bin/Cat,Open,Celestia,DAO,Stablecoin,Active,Yes,
+Rain,AMM,AI-hybrid,Bin/Cat,Open,Arbitrum,DAO,Stablecoin,Active,Yes,
+Opinion,CLOB,AI,Bin/Cat,Hybrid,BNB Chain,Operator,Stablecoin,Active,Yes,
+Limitless,CLOB,Pyth,Binary,Curated,Base,Operator,Stablecoin,Active,Yes,
+functionSPACE,Distribution,Endogenous,Distributional,Open,TBD,DAO,TBD,Design-stage,Yes,
+Predict.fun,Hybrid,Centralized,Bin/Cat,Hybrid,BNB Chain,Operator,Stablecoin,Active,Yes,
+Hedgehog,AMM,Centralized,Bin/Cat,Open,Solana,Operator,Stablecoin,Active,Yes,
+Presagio,CPMM,Bond-escl.,Bin/Cat,Open,Gnosis Ch.,DAO,Stablecoin,Active,Yes,
+Thales,BS-AMM,Chainlink,Binary,Curated,OP / Arb,DAO,Stablecoin,Active,Yes,
+PancakeSwap,Parimutuel,Chainlink,Binary,Curated,BNB Chain,DAO,Native,Active,Yes,
+Butter,Hybrid,Centralized,Binary,Curated,Ethereum L1,DAO,Multi-asset,Active,Yes,
+Myriad,AMM,Centralized,Bin/Cat,Hybrid,Multi-chain,DAO,Stablecoin,Active,Yes,
+SX Network,CLOB,Centralized,Binary,Curated,SX Chain,DAO,Stablecoin,Active,Yes,
+Monaco/BetDEX,CLOB,Centralized,Binary,Curated,Solana,Operator,Stablecoin,Active,Yes,
+Hxro,Parimutuel,Centralized,Bin/Cat,Open,Solana,DAO,Stablecoin,Active,Yes,
+LEVR Bet,Hybrid,Centralized,Binary,Curated,Monad,Operator,Stablecoin,Active,Yes,
+Precog Subnet,—,AI,Distributional,Open,Bittensor,DAO,Native,Active,Yes,
+Predyx,CLOB,Centralized,Binary,Open,Bitcoin,Operator,Native,Active,Yes,
+Polkamarkets,AMM,Arbitration,Bin/Cat,Open,Polkadot,DAO,Native,Active,Yes,
+Manifold,CPMM,Centralized,Bin/Cat/Scl,Open,Centralized,Operator,Play-money,Active,Yes,
+PredictIt,CLOB,Centralized,Bin/Cat,Curated,Centralized,Operator,Fiat,Active,Yes,
+ForecastEx,CLOB,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,Yes,
+Robinhood PM,CLOB,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,Yes,
+Crypto.com OG,CLOB,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,Yes,
+World,—,Chainlink,Bin/Cat,Curated,Solana,Operator,Stablecoin,Active,Yes,
+DoubleUp,Parimutuel,Centralized,Binary,Curated,Sui,DAO,Native,Active,No,casino/lottery hybrid
+PlotX,AMM,Chainlink,Bin/Cat,Curated,Polygon,DAO,Native,Dormant,No,dormant/redundant
+PRDT Finance,AMM,Chainlink,Binary,Curated,BNB Chain,DAO,Multi-asset,Active,No,redundant/long-tail
+Prosper,Parimutuel,Chainlink,Bin/Cat,Open,Multi-chain,DAO,Native,Dormant,No,dormant/redundant
+Aver Exchange,CLOB,Centralized,Bin/Cat,Open,Solana,Operator,Stablecoin,Active,No,redundant/long-tail
+Flux Protocol,AMM,Schelling,Bin/Cat/Scl,Open,NEAR,DAO,Multi-asset,Dormant,No,dormant/redundant
+PredX AI,AMM,AI,Bin/Cat,Open,SEI,Operator,Stablecoin,Active,No,redundant/long-tail
+Parcl,vAMM,Centralized,Distributional,Curated,Solana,DAO,Stablecoin,Active,No,redundant/long-tail
+Frontrunner,CLOB,Centralized,Binary,Curated,Injective,Operator,Stablecoin,Dormant,No,dormant/redundant
+Inertia,AMM,Centralized,Binary,Curated,Avalanche,Operator,Native,Active,No,redundant/long-tail
+Swaye,AMM,Centralized,Binary,Curated,Base,Operator,Native,Active,No,redundant/long-tail
+Bookmaker.xyz,AMM,Centralized,Bin/Cat,Curated,Polygon,DAO,Stablecoin,Active,No,redundant/long-tail
+DexWin,AMM,Centralized,Bin/Cat,Curated,Polygon,DAO,Stablecoin,Active,No,redundant/long-tail
+Prode.eth,CPMM,Bond-escl.,Bin/Cat,Curated,Gnosis Ch.,DAO,Stablecoin,Active,No,redundant/long-tail
+UPvsDOWN,Parimutuel,Centralized,Binary,Curated,Polygon,Operator,Native,Active,No,redundant/long-tail
+Risq Protocol,AMM,Chainlink,Binary,Curated,BNB Chain,DAO,Stablecoin,Dormant,No,dormant/redundant
+BetSwirl,Hybrid,Chainlink,Binary,Curated,Multi-chain,DAO,Multi-asset,Active,No,redundant/long-tail
+WINR Protocol,AMM,Centralized,Binary,Curated,Arbitrum,DAO,Stablecoin,Active,No,redundant/long-tail
+Predicton,—,Optimistic,Binary,Curated,TON,Operator,Native,Active,No,redundant/long-tail
+Xmarket,CLOB,Centralized,Bin/Cat,Open,BNB Chain,Operator,Stablecoin,Active,No,redundant/long-tail
+Veil,CLOB,Schelling,Binary,Curated,Ethereum L1,Operator,Multi-asset,Defunct,No,defunct
+Guesser,AMM,Schelling,Binary,Curated,Ethereum L1,Operator,Native,Defunct,No,defunct
+Catnip,AMM,Schelling,Binary,Open,Ethereum L1,DAO,Stablecoin,Defunct,No,defunct
+Helena,LMSR,Schelling,Binary,Curated,Ethereum L1,Operator,Stablecoin,Defunct,No,defunct
+RealityCards,—,Bond-escl.,Bin/Cat,Curated,Ethereum L1,Operator,Stablecoin,Defunct,No,defunct
+Probable,AMM,Optimistic,Binary,Curated,BNB Chain,Operator,Stablecoin,Defunct,No,defunct
+ZKasino,Hybrid,Centralized,Binary,Curated,zkSync,Operator,Multi-asset,Defunct,No,casino/lottery hybrid
+Bitcoin Hivemind,LMSR,Schelling,Bin/Cat/Scl,Open,Bitcoin,DAO,Native,Pre-launch,No,pre-launch/insufficient public info
+Kleros,—,Arbitration,—,—,Ethereum L1,DAO,Native,Active,No,redundant/long-tail
+Ideamarket,—,Endogenous,Distributional,Open,Arbitrum,Operator,Stablecoin,Dormant,No,dormant/redundant
+BullBear AI,—,AI,Binary,Curated,Arbitrum,DAO,Native,Active,No,redundant/long-tail
+Punk.Coffee,—,—,Bin/Cat,Open,Ethereum L1,DAO,—,Active,No,redundant/long-tail
+eesee,—,Centralized,Binary,Curated,Blast,DAO,Native,Active,No,casino/lottery hybrid
+ProphetX,—,Centralized,Binary,Curated,Centralized,Operator,Fiat,Pre-launch,No,pre-launch/insufficient public info
+Purebet,—,Centralized,Bin/Cat,Hybrid,Solana,Operator,Stablecoin,Active,No,redundant/long-tail
+LiveStakes,—,—,—,—,—,—,—,Unknown,No,insufficient public info
+Kleros Foresight,CPMM,Bond-escl.,Bin/Cat,Curated,Gnosis Ch.,DAO,Stablecoin,Active,No,redundant/long-tail
+Precog (PM),AMM,—,Bin/Cat,Open,Ethereum L1,Operator,Multi-asset,Active,No,redundant/long-tail
+ZanoX,AMM,Centralized,Bin/Cat,Curated,Ethereum L1,Operator,Stablecoin,Active,No,redundant/long-tail
+FanDuel Predicts,—,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,No,redundant/long-tail
+Monaco Protocol,CLOB,Centralized,Binary,Curated,Solana,Operator,Stablecoin,Active,No,redundant/long-tail

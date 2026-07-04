@@ -1,0 +1,55 @@
+Name,Chain,MarketMechanism,OracleType,Status,InTable4,ReasonIfOmitted,VerificationSource
+Polymarket,Polygon,CLOB (hybrid off-chain match / on-chain settle),Optimistic (UMA),Active,Yes,,https://polymarket.com/ ; https://docs.polymarket.com/
+Kalshi,Centralized (CFTC DCM),CLOB,Centralized (exchange settlement),Active,Yes,,https://kalshi.com/ ; CFTC-designated contract market
+Augur v2,Ethereum L1,On-chain order book (0x-based),Schelling-point (REP fork),Dormant,Yes,,https://defillama.com/protocol/augur ; https://augur.net/
+Gnosis / Omen,Gnosis Chain,FPMM (CPMM),Bond-escalation (Reality.eth) + Kleros,Dormant,Yes,,https://omen.eth.limo/ ; https://defillama.com/protocol/gnosis-protocol-v1
+Azuro,Multi-chain (Polygon/Base/Arbitrum/Linea/Gnosis/Chiliz),vAMM (LiquidityTree peer-to-pool),Centralized (Data Providers),Active,Yes,,https://gem.azuro.org/knowledge-hub/introduction/what-is-azuro ; https://defillama.com/protocol/azuro
+Zeitgeist,Polkadot (Substrate parachain),Rikiddo LS-LMSR,Schelling-point (court),Active,Yes,,https://zeitgeist.pm/ ; https://github.com/zeitgeistpm/zeitgeist
+Overtime,Optimism / Arbitrum / Base,Sports/Parlay AMM (BS-AMM),Chainlink,Active,Yes,,https://defillama.com/protocol/overtime ; https://thalesmarket.io/
+MetaDAO,Solana,CLOB (futarchy conditional markets),TWAP,Active,Yes,,https://themetadao.org/ ; CoinDesk 2024-08-01 Paradigm investment
+Drift BET,Solana,"CLOB (perp engine, cross-collateral)",Centralized,Active,Yes,,https://docs.drift.trade/prediction-markets/prediction-markets-intro ; TheBlock 311888
+Seer,Gnosis Chain / Ethereum,CPMM (conditional tokens),Bond-escalation (Reality.eth) + Kleros,Active,Yes,,https://seer.pm/ ; https://defillama.com/protocol/seer
+XO Market,XO (Celestia-DA sovereign rollup),LS-LMSR,AI-hybrid oracle + arbitration,Active,Yes,,https://xomarket.xyz/ ; CoinDesk 2026-04-30 ; https://defillama.com/protocol/xo-market
+Rain,Arbitrum,AMM,AI-hybrid oracle,Active,Yes,,https://www.rain.one/ ; https://defillama.com/protocol/rain
+Opinion,BNB Chain,CLOB (on-chain settlement),AI-assisted,Active,Yes,,https://opinion.trade/ ; Messari 'Opinion' report ; https://defillama.com/protocol/opinion
+Limitless,Base,CLOB,Chainlink / Pyth (feed-resolved),Active,Yes,,https://limitless.exchange/ ; https://docs.limitless.exchange/ ; https://defillama.com/protocol/limitless-exchange
+World,Solana,Not yet publicly documented,Chainlink,Active,Yes,,https://world.xyz/ ; CoinDesk 2026-07-01 ; https://defillama.com/protocol/world
+functionSPACE,TBD (design-stage),Distribution market,Endogenous (Reality Markets),Design-stage,Yes,,"https://function.space/ ; propSPACE hosted engine, on-chain deployment design-stage"
+Predict.fun,Blast / BNB Chain,Hybrid (CTF-style),Centralized,Active,Yes,,https://defillama.com/protocol/predict-fun ; https://blast.predict.fun/
+Hedgehog,Solana / Eclipse,AMM / parimutuel,Centralized,Active,Yes,,https://www.hedgehog.markets/ ; https://defillama.com/protocol/hedgehog-markets
+Presagio,Gnosis Chain,"CPMM (Omen 2.0, CTF)",Bond-escalation (Reality.eth) + Kleros,Active,Yes,,https://presagio.eth.limo/ ; https://github.com/SwaprHQ/presagio ; Gnosis GIP-113
+Thales,Optimism / Arbitrum / Base,BS-AMM (positional markets),Chainlink,Active,Yes,,https://thalesmarket.io/ ; https://docs.thalesmarket.io/
+PancakeSwap Prediction,BNB Chain / Arbitrum / zkSync Era,Parimutuel (5-min up/down),Chainlink,Active,Yes,,https://pancakeswap.finance/prediction ; https://docs.pancakeswap.finance/play/prediction
+Butter,Ethereum L1 / Unichain,Conditional Funding Markets (futarchy hybrid),TWAP / metric-based,Active,Yes,,https://www.butter.markets/ ; Immunefi audit comp 'Butter'
+Myriad,Multi-chain (Abstract / Linea / BNB),AMM,Centralized,Active,Yes,,https://defillama.com/protocol/myriad-markets ; https://myriad.markets/
+SX Network,SX Rollup (own chain),CLOB (betting exchange),Centralized,Active,Yes,,https://sx.bet/ ; https://defillama.com/protocol/sx-bet
+Monaco / BetDEX,Solana,CLOB (P2P betting exchange),Centralized,Active,Yes,,https://www.monacoprotocol.xyz/ ; https://betdex.com/
+Hxro,Solana,Parimutuel (+ Dexterity CLOB),Centralized,Active,Yes,,https://www.hxro.network/ ; https://docs.hxro.network/
+LEVR Bet,Monad,Hybrid (leveraged single-game lines),Centralized (oracle-driven liquidation),Active,Yes,,https://www.levr.bet/ ; Blockchain Capital investment memo
+Precog Subnet,Bittensor (Subnet 55),AI forecast subnet (no order book),AI (validator-scored),Active,Yes,,https://coinmetrics.io/company-news/precog-coin-metrics-bittensor-subnet/ ; Bittensor SN55
+Predyx,Bitcoin (Lightning Network),CLOB (micro-markets),Centralized,Active,Yes,,https://beta.predyx.com/
+Polkamarkets,Polygon / Moonbeam / Moonriver / Ethereum,AMM,Arbitration (autonomous + community),Active,Yes,,https://www.polkamarkets.com/ ; https://defillama.com/protocol/polkamarkets
+Manifold,Centralized (play-money),CPMM (Maniswap),Centralized (creator resolution),Active,Yes,,https://manifold.markets/ ; https://en.wikipedia.org/wiki/Manifold_(prediction_market)
+PredictIt,Centralized (CFTC no-action),CLOB,Centralized,Active,Yes,,https://www.predictit.org/ ; CFTC no-action letter (Victoria Univ. of Wellington)
+ForecastEx,Centralized (CFTC DCM/DCO),CLOB,Centralized,Active,Yes,,https://forecastex.com/about ; https://www.interactivebrokers.com/predictionmarkets/
+Robinhood PM,Centralized (via KalshiEX / MIAXdx),CLOB,Centralized,Active,Yes,,https://robinhood.com/us/en/newsroom/robinhood-prediction-markets-hub/
+Crypto.com OG,Centralized (CFTC-reg CDNA),CLOB,Centralized,Active,Yes,,https://web.crypto.com/explore/predict ; help.crypto.com Sports Event Trading
+DoubleUp,Sui,GambleFi casino (raffles/lottery/coinflip),Centralized RNG,Active,No,casino/lottery hybrid,https://www.doubleup.fun/ ; DappRadar 'doubleup' ; Decrypt 2025 coverage
+eesee,Blast,NFT raffle / lottery marketplace,Centralized RNG,Active,No,casino/lottery hybrid,https://eesee.io/ ; https://defillama.com/protocol/eesee
+ZKasino,Polygon / Arbitrum / BNB (claimed),Casino / betting (billed as prediction market),Centralized,Defunct,No,casino/lottery hybrid,"ZachXBT / SlowMist reports (~$33M exit scam, Apr 2024) ; https://defillama.com/protocol/zkasino"
+Truemarkets,Base / Ethereum,CPMM (Uniswap v3/v4 markets),Intersubjective optimistic oracle,Active,No,redundant,https://truemarkets.co/ ; https://github.com/truemarketsorg/true-contracts ; DeFiLlama 'truemarkets'
+Trueo,Ethereum,AMM (yield-bearing markets),On-chain committed data sources,Active,No,redundant,https://docs.trueo.com/ ; https://defillama.com/protocol/trueo
+Alpha Arcade,Algorand,CLOB / AMM,Centralized,Active,No,redundant,https://www.alphaarcade.com/ ; https://defillama.com/protocol/alpha-arcade
+Bodega Market,Cardano,AMM (USDM-collateralized),Centralized / staker resolution,Active,No,redundant,https://www.bodegamarket.xyz/ ; https://github.com/bodega-market/bodega-market-docs ; https://defillama.com/protocol/bodega-market
+PRDT (Predictions),Ethereum / BNB / Polygon / Arbitrum / Base / Solana,Parimutuel (5-min up/down),Chainlink-style feeds,Active,No,redundant,https://prdt.finance/ ; DappRadar 'predictions-prdt' ; https://defillama.com/protocol/prdt
+Sport.fun (Football.Fun),Base,Tokenized-athlete exposure / prediction hybrid,Centralized,Active,No,redundant,https://football.fun/ ; The Block 385736 ; https://defillama.com/protocol/sport.fun
+Liquidity House,Etherlink,AMM,Centralized,Active,No,redundant,https://defillama.com/protocol/liquidity-house
+Probable,BNB Chain,AMM (full on-chain settlement),Optimistic (UMA),Active,No,redundant,https://probable.markets/ ; incubated by PancakeSwap + YZi Labs ; https://defillama.com/protocol/probable
+Clutch Markets,ApeChain / Arbitrum,AMM,Centralized,Active,No,redundant,https://defillama.com/protocol/clutch-markets-predictions
+Precog Market,Base / Arbitrum,AMM,Centralized / community,Active,No,redundant,https://defillama.com/protocol/precog-market
+Kizzy,Monad,Parimutuel (social-media metric betting),Centralized (metric feeds),Active,No,casino/lottery hybrid,https://app.kizzy.io/ ; Isle of Man OGRA license ; https://defillama.com/protocol/kizzy
+Gnosis Olympia,Ethereum (Rinkeby testnet),LMSR (tournament),Centralized (test),Defunct,No,defunct,https://medium.com/gnosis-pm/announcing-gnosis-olympia-5fb7e16dd259 (Dec 2017 - Jan 2018)
+Stox,Ethereum,Bancor-based bonding-curve markets,Operator / oracle,Dormant,No,defunct,"https://www.stox.com/ ; STX ICO Aug 2017 (CoinMarketCap 'stox', now negligible volume)"
+Bodhi,"Qtum (later Ethereum, BOE)",Bonding-curve prediction market,Community oracle,Dormant,No,defunct,https://iq.wiki/wiki/bodhi ; BitcoinMagazine 2017 ; Bodhi Foundation ICO Aug 2017
+Reality Cards,Polygon (formerly xDai),NFT-rental prediction market (time-based),Reality.eth / Kleros,Dormant,No,defunct,https://blog.realitycards.io/ ; https://github.com/code-423n4/2021-06-realitycards
+Bitcoin Hivemind (Truthcoin),"Bitcoin (BIP-300/301 drivechain, proposed)",LMSR-style conditional markets,VoteCoin Schelling oracle,Design-stage,No,insufficient public info,https://bitcoinhivemind.com/ ; https://www.truthcoin.info/papers/ (never on mainnet)

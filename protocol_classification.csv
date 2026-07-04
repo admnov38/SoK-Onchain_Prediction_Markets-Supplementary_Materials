@@ -1,0 +1,36 @@
+Protocol,D1_MarketMechanism,D2_OracleType,D3_OutcomeStructure,D4_MarketCreation,D5_BlockchainPlatform,D6_GovernanceModel,D7_CollateralModel,Status,Vol_TVL_Jun2026,Block
+Polymarket,CLOB,Optimistic,Bin/Cat,Curated,Polygon,Operator,Stablecoin,Active,$10.26B / $428M,Analyzed
+Kalshi,CLOB,Centralized,Binary,Curated,Centralized,Operator,Fiat,Active,$31.5B / --,Analyzed
+Augur v2,Order Book,Schelling,Bin/Cat/Scl,Open,Ethereum L1,DAO,Multi-asset,Dormant,-- / $1.4M,Analyzed
+Gnosis/Omen,FPMM,Bond-escalation,Bin/Cat/Scl,Open,Gnosis Chain,DAO,Multi-asset,Dormant,-- / --,Analyzed
+Azuro,vAMM,Centralized,Bin/Cat,Curated,Multi-chain,DAO,Stablecoin,Active,-- / $1.6M,Analyzed
+Zeitgeist,Rikiddo (LS-LMSR),Schelling,Bin/Cat/Scl,Open,Polkadot,DAO,Native,Active,-- / --,Analyzed
+Overtime,BS-AMM,Chainlink,Bin/Cat,Curated,OP/Arbitrum,DAO,Stablecoin,Active,-- / $1.8M,Analyzed
+MetaDAO,CLOB,TWAP,Binary,Open,Solana,Futarchy,Multi-asset,Active,-- / --,Analyzed
+Drift BET,CLOB,Centralized,Binary,Curated,Solana,DAO,Multi-asset,Active,-- / --,Analyzed
+Seer,CPMM,Bond-escalation,Bin/Cat/Scl,Open,Gnosis Chain,DAO,Stablecoin,Active,-- / $1.0M,Analyzed
+XO Market,LS-LMSR,AI-hybrid,Bin/Cat,Open,Celestia,DAO,Stablecoin,Active,-- / --,Analyzed
+Rain,AMM,AI-hybrid,Bin/Cat,Open,Arbitrum,DAO,Stablecoin,Active,-- / $29M,Analyzed
+Opinion,CLOB,AI,Bin/Cat,Hybrid,BNB Chain,Operator,Stablecoin,Active,-- / $4.6M,Analyzed
+Limitless,CLOB,Pyth,Binary,Curated,Base,Operator,Stablecoin,Active,$789M (cml) / $0.67M,Analyzed
+World,--,Chainlink,Bin/Cat,Curated,Solana,Operator,Stablecoin,Active,-- / $0.9M,Featured (unscored)
+functionSPACE,Distribution,Endogenous,Distributional,Open,TBD,DAO,TBD,Design-stage,-- / --,Featured (design-stage; unscored)
+Predict.fun,Hybrid,Centralized,Bin/Cat,Hybrid,BNB Chain,Operator,Stablecoin,Active,$1.5B (cml) / $23M,Additional
+Hedgehog,AMM,Centralized,Bin/Cat,Open,Solana,Operator,Stablecoin,Active,-- / $0.05M,Additional
+Presagio,CPMM,Bond-escalation,Bin/Cat,Open,Gnosis Chain,DAO,Stablecoin,Active,-- / --,Additional
+Thales,BS-AMM,Chainlink,Binary,Curated,OP/Arbitrum,DAO,Stablecoin,Active,$200M (cml) / $1.8M,Additional
+PancakeSwap,Parimutuel,Chainlink,Binary,Curated,BNB Chain,DAO,Native,Active,-- / --,Additional
+Butter,Hybrid,TWAP,Binary,Curated,Ethereum L1,DAO,Multi-asset,Active,-- / --,Additional
+Myriad,AMM,Centralized,Bin/Cat,Hybrid,Multi-chain,DAO,Stablecoin,Active,-- / $0.3M,Additional
+SX Network,CLOB,Centralized,Binary,Curated,SX Chain,DAO,Stablecoin,Active,-- / --,Additional
+Monaco/BetDEX,CLOB,Centralized,Binary,Curated,Solana,Operator,Stablecoin,Active,-- / --,Additional
+Hxro,Parimutuel,Centralized,Bin/Cat,Open,Solana,DAO,Stablecoin,Active,-- / --,Additional
+LEVR Bet,Hybrid,Centralized,Binary,Curated,Monad,Operator,Stablecoin,Active,-- / --,Additional
+Precog Subnet,-- (forecasting),AI,Distributional,Open,Bittensor,DAO,Native,Active,-- / --,Additional
+Predyx,CLOB,Centralized,Binary,Open,Bitcoin,Operator,Native,Active,-- / --,Additional
+Polkamarkets,AMM,Arbitration,Bin/Cat,Open,Polkadot,DAO,Native,Active,-- / --,Additional
+Manifold,CPMM,Centralized,Bin/Cat/Scl,Open,Centralized (off-chain),Operator,Play-money,Active,750K+ markets,Additional (play-money comparator)
+PredictIt,CLOB,Centralized,Bin/Cat,Curated,Centralized (off-chain),Operator,Fiat,Active,-- / --,Additional
+ForecastEx,CLOB,Centralized,Binary,Curated,Centralized (off-chain),Operator,Fiat,Active,-- / --,Additional
+Robinhood PM,CLOB,Centralized,Binary,Curated,Centralized (off-chain),Operator,Fiat,Active,4B+ contracts,Additional
+Crypto.com OG,CLOB,Centralized,Binary,Curated,Centralized (off-chain),Operator,Fiat,Active,-- / --,Additional
